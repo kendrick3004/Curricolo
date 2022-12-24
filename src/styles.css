@@ -1,0 +1,15 @@
+body {
+    box-sizing: border-box;
+    background: #221327;
+}
+
+.box-2 {
+    padding: 20px;
+    margin-top: -21px;
+}
+
+
+h2 {
+    font-size: 16px;
+    margin-bottom: 1px; 
+}

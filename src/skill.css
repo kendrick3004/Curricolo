@@ -1,0 +1,28 @@
+.skill{
+    text-align: right;
+    padding-top: 2.5px; 
+    padding-bottom: 2px; 
+    color: white;
+    
+}
+
+.skill-container{ 
+    width: 100%;
+    background-color: #4d4d4d;
+    margin: 3px 0px;
+}
+
+.html{    
+    width: 98%;
+    background-color: white;
+}
+
+.css{    
+    width: 95%;
+    background-color: white;
+}
+
+.js{    
+    width: 65%;
+    background-color: white;
+}

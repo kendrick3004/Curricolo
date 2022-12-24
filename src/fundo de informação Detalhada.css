@@ -1,0 +1,29 @@
+.main {
+   height: 1000px;
+   width: 893px; 
+   background-color: white;
+   box-shadow: 5px 5px 15px 5px #643773;
+   margin: 0px auto;
+}
+ 
+.head-2 {
+   background-color: #4d4d4d; 
+   padding: 6px; 
+   color: #fbb03b; 
+   text-align: left; 
+   padding-left: 410px; 
+   margin-right: 0px;
+   font-size: 30px; 
+   color: #ffffff;
+}
+
+.name-div {
+   padding-top: 11.5%;
+   padding-right: 0px;
+   padding-bottom: 3%;
+   padding-left: 100px;
+}
+
+.name-div h1{
+   margin-bottom: 0px;
+}

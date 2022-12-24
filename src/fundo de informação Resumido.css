@@ -1,0 +1,22 @@
+.content-box {
+    padding: 12px;
+}
+
+.head-1 {
+    background-color: #4d4d4d; 
+    padding: 5px; 
+    color: #fbb03b; 
+    text-align: left; 
+    padding-left: 20px; 
+    margin-right: -25px;
+    font-size: 30px; 
+    color: #ffffff;
+}
+
+.top-section { 
+    background-color: #fbb03b;
+    width: 370px;
+    height: 435px;
+    height: 100%;
+    float: left;
+}
